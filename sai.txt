@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is developer commit by sai
 This is developer commit by santosh
+=======
+This is developer commit by sai
+>>>>>>> 6e8ab5b060336c8f93395bd1803f2f6866ba394c
